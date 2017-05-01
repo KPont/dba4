@@ -6,7 +6,7 @@ Total tweets:
 659774
 
 # Most active users(top 10):
-lost dog
+lost_dog
 webwoke
 tweetpet
 SallytheShizzle
