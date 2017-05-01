@@ -2,10 +2,10 @@
 Total tweets:
 1600000
 
-#User accounts in total:
+# User accounts in total:
 659774
 
-#Most active users(top 10):
+# Most active users(top 10):
 lost dog
 webwoke
 tweetpet
@@ -17,14 +17,14 @@ what_bugs_u
 Karen230683
 DarkPiano
 
-#Most grumpy/negative users(top 5):
+# Most grumpy/negative users(top 5):
 lost_dog
 tweetpet
 webwoke
 mcraddictal
 wowlew
 
-#Most happy/positive users(top5):
+# Most happy/positive users(top5):
 cathriiin
 puchal_ek
 TheWDBoards
